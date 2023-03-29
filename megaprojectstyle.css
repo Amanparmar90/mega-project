@@ -1,0 +1,16 @@
+nav{
+    background-color:  black;
+    text-align: center;
+    padding: 20px;
+}
+
+nav a{
+    color: red;
+    padding: 100px;
+}
+/**{
+    background-color: yellow;
+}*/
+nav a:hover{
+    color: white;
+}
